@@ -65,3 +65,10 @@ export default {
   build: {
   }
 }
+
+export default {
+  target: 'static',
+  router: {
+    base: '/minlog/'
+  }
+}
