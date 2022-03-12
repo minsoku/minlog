@@ -1,6 +1,7 @@
 <template>
   <v-card>
-    네
+    안녕 뷰 !!!<br />
+    나는 민석이야 !!!
   </v-card>
 </template>
 
